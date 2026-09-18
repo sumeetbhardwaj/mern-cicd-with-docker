@@ -16,6 +16,7 @@ app.get("/api/users", (req, res) => {
       { id: 1, name: "John Doe", age: 30, city: "New York" },
       { id: 2, name: "Jane Smith", age: 25, city: "Los Angeles" },
       { id: 3, name: "Mike Johnson", age: 35, city: "Chicago" },
+      { id: 4, name: "Emily Davis", age: 28, city: "Houston" },
     ],
   });
 });
